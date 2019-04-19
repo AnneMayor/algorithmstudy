@@ -17,8 +17,12 @@
 - 예시: 1,2차원 배열크기 및 변수(O(1))
 
 3. 자료구조(Data Structure)
+- 선형자료구조(Linear): 스택(Stack) / 큐(Queue)
 
 4. 정렬(Sorting)
+- 선택정렬(Selection Sort)
+- 삽입정렬(Insertion Sort)
+- 버블정렬(Bubble Sort)
 
 ## 실전문제
 
