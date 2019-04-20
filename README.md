@@ -18,11 +18,13 @@
 
 3. 자료구조(Data Structure)
 - 선형자료구조(Linear): 스택(Stack) / 큐(Queue)
+- 트리:
+- 그래프:
 
-4. 정렬(Sorting)
-- 선택정렬(Selection Sort)
-- 삽입정렬(Insertion Sort)
-- 버블정렬(Bubble Sort)
+4. 정렬(Sorting) *코드구현 필수 | 시간복잡도 = O(n^2)
+- 선택정렬(Selection Sort): 가장 작은 수를 배열에서 찾아 왼쪽으로 하나씩 정렬하는 방법(오름차순 기준)
+- 삽입정렬(Insertion Sort): 왼쪽은 정렬된 배열로 오른쪽으로 한 칸씩 가면서 정렬된 왼쪽 배열에서 들어가야하는 위치 찾아 넣는 방법
+- 버블정렬(Bubble Sort): 인접한 원소를 차례로 비교하여 큰 수를 오른쪽으로 보내는 방법(오른쪽이 정렬된 배열상태)
 
 ## 실전문제
 
