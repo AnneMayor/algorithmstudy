@@ -51,3 +51,7 @@
 - 백준(https://www.acmicpc.net/)
 
 - SW EXPERT Academy(https://swexpertacademy.com/main/main.do)
+
+## 참고자료
+
+- 10158 개미(백준) : https://hanstemcell.tistory.com/entry/%EB%B0%B1%EC%A4%80-%EA%B0%9C%EB%AF%B8?category=672485
