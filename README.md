@@ -56,3 +56,6 @@
 ## 참고자료
 
 - 10158 개미(백준) : https://hanstemcell.tistory.com/entry/%EB%B0%B1%EC%A4%80-%EA%B0%9C%EB%AF%B8?category=672485
+- 1963 소수 경로(백준) : https://lmcoa15.tistory.com/63
+- 2580 스도쿠(백준) : https://dongyeollee.github.io/2018/09/03/Al/2580/
+- 6549 히스토그램에서 가장 큰 직사각형(백준) : https://greeksharifa.github.io/ps/2018/07/07/PS-06549/
