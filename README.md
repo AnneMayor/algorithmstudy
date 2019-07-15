@@ -38,6 +38,7 @@
 
 5. 알고리즘(algorithm)
 - DP(다이나믹 프로그래밍): 반복되는 재귀함수 호출에서 저장공간을 만들어 반복부분을 저장하여 부분문제를 통해 전체문제를 해결하는 알고리즘. 흔히, 문제에서 점화식을 찾아내어 해결한다.
+- inchworm : 
 
 6. 탐색(Search)
 - 이진탐색(Binary Search): 
@@ -59,3 +60,4 @@
 - 1963 소수 경로(백준) : https://lmcoa15.tistory.com/63
 - 2580 스도쿠(백준) : https://dongyeollee.github.io/2018/09/03/Al/2580/
 - 6549 히스토그램에서 가장 큰 직사각형(백준) : https://greeksharifa.github.io/ps/2018/07/07/PS-06549/
+- 13144 List of Unique Numbers(백준) : 재귀함수로 풀면, 시간초과 뜸. 이 문제는 inchworm 알고리즘을 적용하여 풀어야 함. http://blog.naver.com/PostView.nhn?blogId=programmer18&logNo=220876732845
