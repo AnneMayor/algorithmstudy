@@ -64,3 +64,4 @@
 - 2580 스도쿠(백준) : https://dongyeollee.github.io/2018/09/03/Al/2580/
 - 6549 히스토그램에서 가장 큰 직사각형(백준) : https://greeksharifa.github.io/ps/2018/07/07/PS-06549/
 - 13144 List of Unique Numbers(백준) : 재귀함수로 풀면, 시간초과 뜸. 이 문제는 two-pointer 기법을 적용하여 풀어야 함. http://blog.naver.com/PostView.nhn?blogId=programmer18&logNo=220876732845
+- 3032 홍준이의숫자놀이 D3(SWExpertAcademy) : 확장된 유클리드 알고리즘 활용(https://brilliant.org/wiki/extended-euclidean-algorithm/)
