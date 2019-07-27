@@ -2,7 +2,7 @@
 
 개인적인 알고리즘 스터디 정보 및 자료 공유(소스코드, 개념 설명 등 포함)
 사용언어: C/C++
-컴파일러: Xcode, Visual Studio Code
+컴파일러: Xcode, Visual Studio Code, Visual Studio 2013(Windows10)
 
 ## 자료구조/알고리즘 필수 개념정리
 
@@ -47,6 +47,10 @@
 - 깊이우선탐색(DFS): 자료구조 중 그래프 순회방법 중 한가지로 인접 리스트로 그래프 자료구조에 저장된 데이터를 순회한다. 시간복잡도는 <italic>O(V+2*E) = O(V+E)</italic> 구현할 때에는 스택 자료구조도 활용.(재귀호출)
 - ** Backtracking: 완전탐색을 실행하는 깊이우선탐색(DFS)과 달리, 비효율적인 경로를 차단하고 목표지점에 도달할 때 사용하는 알고리즘 기법. DFS+Pruning(가지치기)를 통해 가도되지않는 루트를 제외시킴.(대표예제: N-Queen문제)
 
+7. 규칙찾기
+- 삼성 Advanced Level 알고리즘 시험문제에서 자주 출제되는 유형.
+- 대표적인 예제: 
+
 ## 실전문제
 
 - 코드그라운드(https://www.codeground.org/practice)
@@ -65,3 +69,6 @@
 - 6549 히스토그램에서 가장 큰 직사각형(백준) : https://greeksharifa.github.io/ps/2018/07/07/PS-06549/
 - 13144 List of Unique Numbers(백준) : 재귀함수로 풀면, 시간초과 뜸. 이 문제는 two-pointer 기법을 적용하여 풀어야 함. http://blog.naver.com/PostView.nhn?blogId=programmer18&logNo=220876732845
 - 3032 홍준이의숫자놀이 D3(SWExpertAcademy) : 확장된 유클리드 알고리즘 활용(https://brilliant.org/wiki/extended-euclidean-algorithm/)
+- 1016 제곱ㄴㄴ수(백준): 시간초과나는 문제를 규칙을 찾아 간결한 코드로 정리 가능!(https://wootool.tistory.com/39)
+- 1019 책페이지(백준): 나중에 다시 풀어봐야할 문제list 중 하나.(https://jm25.tistory.com/53)
+- 1052 물병(백준): 재귀함수로 짤 경우, 시간초과나는 문제. 마찬가지로, 문제에서 규칙을 찾아 효율적인 코드 작성을 필요로 하는 문제.(https://yabmoons.tistory.com/199)
