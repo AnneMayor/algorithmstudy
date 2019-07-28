@@ -49,7 +49,7 @@
 
 7. 규칙찾기
 - 삼성 Advanced Level 알고리즘 시험문제에서 자주 출제되는 유형.
-- 대표적인 예제: 1016 제곱ㄴㄴ수, 1019 책페이지, 1052 물병
+- 대표적인 예제: 1011 Fly me to the Alpha Centauri, 1016 제곱ㄴㄴ수, 1019 책페이지, 1052 물병
 
 ## 실전문제
 
@@ -69,6 +69,7 @@
 - 6549 히스토그램에서 가장 큰 직사각형(백준) : https://greeksharifa.github.io/ps/2018/07/07/PS-06549/
 - 13144 List of Unique Numbers(백준) : 재귀함수로 풀면, 시간초과 뜸. 이 문제는 two-pointer 기법을 적용하여 풀어야 함. http://blog.naver.com/PostView.nhn?blogId=programmer18&logNo=220876732845
 - 3032 홍준이의숫자놀이 D3(SWExpertAcademy) : 확장된 유클리드 알고리즘 활용(https://brilliant.org/wiki/extended-euclidean-algorithm/)
+- 1011 Fly me to the Alpha Centauri(백준) : 규칙찾기 연습문제(https://www.acmicpc.net/board/view/13747)
 - 1016 제곱ㄴㄴ수(백준): 시간초과나는 문제를 규칙을 찾아 간결한 코드로 정리 가능!(https://wootool.tistory.com/39)
 - 1019 책페이지(백준): 나중에 다시 풀어봐야할 문제list 중 하나.(https://jm25.tistory.com/53)
 - 1052 물병(백준): 재귀함수로 짤 경우, 시간초과나는 문제. 마찬가지로, 문제에서 규칙을 찾아 효율적인 코드 작성을 필요로 하는 문제.(https://yabmoons.tistory.com/199)
