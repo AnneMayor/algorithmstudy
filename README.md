@@ -84,3 +84,4 @@
 - 1992 쿼드트리(백준): 재귀함수 설계 시, x와 y좌표도 매개변수로 넣어줘야한다.(https://jaimemin.tistory.com/1072)
 - 1074 Z(백준) : 재귀함수 시간초과 연습하기 좋은 문제. 재귀함수 기저조건을 찾고자 하는 위치의 좌표로 놓고 생각해보는 문제다!(https://sanghoon3018.tistory.com/49)
 - 2263 트리의순회(백준) : 트리의 정렬순서와 재귀함수를 이용한 문제. 정렬순서별 규칙을 찾아야 한다!(https://donggod.tistory.com/103)
+- 공백 포함 문자열 입력받는 방법에 관한 글: https://jiwondh.github.io/2017/09/23/cin.getline/
