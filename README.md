@@ -86,3 +86,4 @@
 - 2263 트리의순회(백준) : 트리의 정렬순서와 재귀함수를 이용한 문제. 정렬순서별 규칙을 찾아야 한다!(https://donggod.tistory.com/103)
 - 공백 포함 문자열 입력받는 방법에 관한 글: https://jiwondh.github.io/2017/09/23/cin.getline/
 - 2610 회의준비(백준) : DFS와 BFS 두 개를 활용하는 문제. 이 문제처럼 최단거리를 구해야할 경우엔 BFS를 써줘야 한다. 처음에 그래프 정점 중 가장 많은 정점과 연결된 정점이 답일 거라 생각하여 설계하였으나 설계 가정 자체가 틀렸음을 발견함. 따라서, 최단거리 관련한 문제는 BFS 접근방식을 먼저 떠올려야 한다.
+- 1014 컨닝(백준) : 일반 DFS,BFS로는 시간초과가 걸리는 문제. 해결방법은 네트워크 플로우와 Bitmasking DP 총 두 가지 기법으로 다음 링크는 Bitmasking DP 기법을 활용한 풀이를 공유해놓음. https://github.com/cannalee90/Problem_Solving/blob/master/BOJ/1014_%EC%BB%A8%EB%8B%9D.cpp
