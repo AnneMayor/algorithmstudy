@@ -7,7 +7,7 @@ int getFive(int num) {
 
     int ret = 0;
 
-    for(long long i = 5; num / i >= 1; i *= 5) {
+    for(long i = 5; num / i >= 1; i *= 5) {
         ret += num / i;
     }
 
@@ -18,7 +18,7 @@ int getTwo(int num) {
 
     int ret = 0;
 
-    for(long long i = 2; num / i >= 1; i *= 2) {
+    for(long i = 2; num / i >= 1; i *= 2) {
         ret += num / i;
     }
 
