@@ -63,6 +63,10 @@
 - KMP 알고리즘: 일반적으로 웹브라우져에서 특정단어 포함 문자열 빠른 검색 시 활용되는 알고리즘. Pi[] 배열을 활용하여 찾고자 하는 문자열에 반복되는 문자가 포함될 경우, 반복 위치와 문자 저장. 시간복잡도: O(N+M)=>각 문자열의 길이의 합
 - 라빈 카프 알고리즘: 
 
+11. 비트연산자
+- 실제 시물레이션 문제에서 유용하게 활용할 수 있는 컴퓨터 연산장치. &(교집합), |(합집합), ^(차집합) 등 활용할 수 있음. Low 레벨단에서 많이 활용하는 연산(임베디드 프로그래밍)
+- 예시: 2020 카카오 블라인드 No.5 기둥과 보 설치, 2018 카카오 블라인드 No. 3 후보키
+
 ## 실전문제
 
 - 코드그라운드(https://www.codeground.org/practice)
@@ -74,6 +78,8 @@
 - 알고스팟(algospot): https://algospot.com/
 
 - Codejam 기출문제(https://codingcompetitions.withgoogle.com/codejam/archive)
+
+- 프로그래머스(Programmers): https://programmers.co.kr/
 
 ## 알고리즘 대회
 
@@ -103,3 +109,4 @@
 - 1014 컨닝(백준) : 일반 DFS,BFS로는 시간초과가 걸리는 문제. 해결방법은 네트워크 플로우와 Bitmasking DP 총 두 가지 기법으로 다음 링크는 Bitmasking DP 기법을 활용한 풀이를 공유해놓음. https://github.com/cannalee90/Problem_Solving/blob/master/BOJ/1014_%EC%BB%A8%EB%8B%9D.cpp
 - 16137 견우와직녀(백준) : BFS 문제에서도 한 번만 증가하는 것이 아닌 계속 방문했던 정점을 지날 수 있는 경우의 최소값을 구하는 풀이 연습하기 좋은 문제. 조건에서 "하나의 오작교만 만든다"는 조건의 의미 파악하는 것이 중요! https://yabmoons.tistory.com/207
 - 2020 Codejam Contest : kdh9949님과 cki86201님 제출답변. 새로운 구현방법을 터득할 수 있었음.(+독창적인 풀이법)
+- 2020 KAKAO BLIND No.5 기둥과 보 설치: https://biewoom.github.io/coding%20test/kakao%202020%20blind/2020/04/20/pillar.html
