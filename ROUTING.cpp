@@ -19,10 +19,12 @@ long double dijkstra(int V, int start) {
         long double cost = -pq.top().first;
         int here = pq.top().second;
         pq.pop();
-        if(isVisited[here]) continue;
-        isVisited[here] = 1;
+        // 1. 방문한 정점 체크
+        // if(isVisited[here]) continue;
+        // isVisited[here] = 1;
 
-        // if(dist[here] < cost) continue;
+        // 2. 각 정점의 현재 최단거리 비교
+        if(dist[here] < cost) continue;
 
         for(int i = 0; i < adj[here].size(); i++) {
             int there  = adj[here][i].first;
