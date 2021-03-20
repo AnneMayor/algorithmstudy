@@ -67,6 +67,9 @@
 - 실제 시물레이션 문제에서 유용하게 활용할 수 있는 컴퓨터 연산장치. &(교집합), |(합집합), ^(차집합) 등 활용할 수 있음. Low 레벨단에서 많이 활용하는 연산(임베디드 프로그래밍)
 - 예시: 2020 카카오 블라인드 No.5 기둥과 보 설치, 2018 카카오 블라인드 No. 3 후보키
 
+12. Segment Tree
+(추후 추가예정)
+
 ## 실전문제
 
 - 코드그라운드(https://www.codeground.org/practice)
@@ -81,6 +84,8 @@
 
 - 프로그래머스(Programmers): https://programmers.co.kr/
 
+- AlgoExpert: https://www.algoexpert.io/product
+
 ## 알고리즘 대회
 
 - 코드포스(온라인) : https://codeforces.com/
@@ -88,6 +93,8 @@
 - Code Jam(온라인) : https://codingcompetitions.withgoogle.com/codejam
 
 - ACM-ICPC : http://icpckorea.org/
+
+- Atcoder: https://kenkoooo.com/atcoder/#/table/pranne1224 
 
 ## 참고자료
 
