@@ -5,6 +5,7 @@
 
 using namespace std;
 
+// Average: O(n^2) time | O(n) space
 vector<vector<int>> threeNumberSum(vector<int> array, int targetSum) {
     vector<vector<int> > answer{};
     unordered_set<int> numGroup;
