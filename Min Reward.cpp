@@ -3,6 +3,7 @@
 
 using namespace std;
 
+// O(n) Time | O(n) space
 int minRewards(vector<int> scores) {
   int totalMinRewards = 0;
 
