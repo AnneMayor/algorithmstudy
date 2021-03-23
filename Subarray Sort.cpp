@@ -5,6 +5,8 @@ using namespace std;
 bool isOutOfOrder(int num, vector<int> & array, int idx);
 vector<int> subarraySort(vector<int> array);
 
+
+// O(n) Time | O(1) Space
 vector<int> subarraySort(vector<int> array) {
 
     int n = array.size();
