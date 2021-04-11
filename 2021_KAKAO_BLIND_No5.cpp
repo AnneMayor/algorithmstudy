@@ -8,6 +8,7 @@ using namespace std;
 
 const int MAX = 360005;
 
+// string -> int 변환 함수
 int convertTimeStringToInt(string time) {
     int result = 0;
     string timePart[3];
@@ -75,7 +76,9 @@ string solution(string play_time, string adv_time, vector<string> logs) {
         startLogSecTime.push_back(make_pair(startTime, start));
     }
 
+    // 현재 시청중인 시청자 수
     for(int i = 0; i < playTime; i++) totalRunTime[i+1] += totalRunTime[i];
+    // 현재 시청중인 시청자들의 누적 재생시간
     for(int i = 0; i < playTime; i++) totalRunTime[i+1] += totalRunTime[i];
 
     long long maxTotalTime = totalRunTime[advTime-1];
@@ -88,6 +91,7 @@ string solution(string play_time, string adv_time, vector<string> logs) {
         }
     }
 
+    // int -> string 변환을 위한 계산 방식
     int hour = intAnsTime /(60*60);
     int min = (intAnsTime/60)%60;
     int sec = intAnsTime%60;
