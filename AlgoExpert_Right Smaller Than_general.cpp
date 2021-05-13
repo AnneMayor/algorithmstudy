@@ -2,6 +2,7 @@
 
 using namespace std;
 
+// O(N^2) time | O(N) space complexity
 vector<int> rightSmallerThan(vector<int> array) {
 
     vector<int> result;
