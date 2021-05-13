@@ -2,6 +2,7 @@
 
 using namespace std;
 
+// O(nlog(n)) time | O(n) space(Average), O(n^2) time | O(n) space
 struct SpecialBst {
     SpecialBst *left;
     SpecialBst *right;
