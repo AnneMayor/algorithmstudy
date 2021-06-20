@@ -1,4 +1,7 @@
 # algorithmstudy
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 개인적인 알고리즘 스터디 정보 및 자료 공유(소스코드, 개념 설명 등 포함)
 사용언어: C/C++
@@ -117,3 +120,23 @@
 - 16137 견우와직녀(백준) : BFS 문제에서도 한 번만 증가하는 것이 아닌 계속 방문했던 정점을 지날 수 있는 경우의 최소값을 구하는 풀이 연습하기 좋은 문제. 조건에서 "하나의 오작교만 만든다"는 조건의 의미 파악하는 것이 중요! https://yabmoons.tistory.com/207
 - 2020 Codejam Contest : kdh9949님과 cki86201님 제출답변. 새로운 구현방법을 터득할 수 있었음.(+독창적인 풀이법)
 - 2020 KAKAO BLIND No.5 기둥과 보 설치: https://biewoom.github.io/coding%20test/kakao%202020%20blind/2020/04/20/pillar.html
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://jakebolam.com"><img src="https://avatars.githubusercontent.com/u/3534236?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jake Bolam</b></sub></a><br /><a href="#infra-jakebolam" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/AnneMayor/algorithmstudy/commits?author=jakebolam" title="Tests">⚠️</a> <a href="https://github.com/AnneMayor/algorithmstudy/commits?author=jakebolam" title="Code">💻</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
