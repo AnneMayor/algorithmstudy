@@ -1,8 +1,6 @@
 import java.util.LinkedList;
 import java.util.Scanner;
 
-import javax.swing.plaf.basic.BasicInternalFrameTitlePane.MaximizeAction;
-
 public class Main {
 
     public static LinkedList<LinkedList<Integer> > graphs;
