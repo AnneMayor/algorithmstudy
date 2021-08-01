@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class Main {
+public class Main_13460 {
 
     static class Marble {
         int redX, redY, blueX, blueY; 
