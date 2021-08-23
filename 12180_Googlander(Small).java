@@ -15,18 +15,18 @@ public class Main_12180 {
             int r = Integer.parseInt(rc[0]);
             int c = Integer.parseInt(rc[1]);
 
-            int [][] dp = new int[r][c];
+            Long [][] dp = new Long[r+1][c+1];
 
             for(int i = 0; i < r; i++) {
-                Arrays.fill(dp[i], 0);
+                Arrays.fill(dp[i], 0L);
             }
 
             for(int i = 0 ; i < r; i++) {
-                dp[i][0] = 1;
+                dp[i][0] = 1L;
             }
 
             for(int i = 0; i < c; i++) {
-                dp[r-1][i] = 1;
+                dp[r-1][i] = 1L;
             }
 
             for(int i = r-2; i >= 0; i--) {
