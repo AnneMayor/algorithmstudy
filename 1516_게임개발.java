@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.PriorityQueue;
 
-public class Main {
+public class Main_1516 {
 
     public static Long [] result;
     public static int [] inDegree;
