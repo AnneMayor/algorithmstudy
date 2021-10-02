@@ -25,6 +25,7 @@ int main(void) {
         pq.push(make_pair(-distance, next));
     }
 
+    isVisited[1] = 1;
     while (!pq.empty())
     {
         pair<int, int> current = pq.top();
