@@ -11,7 +11,7 @@ class AlgoExper_ValidateBST {
 
     if(tree.left != null && !recursiveSearch(tree.left, minValue, tree.value)) return false;
 
-    if(tree.right != null & !recursiveSearch(tree.right, tree.value, maxValue)) return false;
+    if(tree.right != null && !recursiveSearch(tree.right, tree.value, maxValue)) return false;
 
     return true;
   }
