@@ -14,7 +14,7 @@ public class LeetCode_NonOverlappingIntervals {
         }
 
         @Override
-        public int compareTo(Solution.Interval i) {
+        public int compareTo(LeetCode_MaximumProductOfWordLengths.Interval i) {
             if(this.start == i.start) return this.end - i.end;
             return this.start - i.start;
         }
